@@ -14,3 +14,6 @@ The dataset has 11 columns:
 - remote_ratio: The overall amount of work done remotely.
 - company_location: The country of the employer's main office or contracting branch.
 - company_size: The median number of people that worked for the company during the year.
+
+The dataset has been collected from Kaggle: https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023
+
